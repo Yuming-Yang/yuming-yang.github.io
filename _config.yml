@@ -12,7 +12,7 @@ title                    : "Yuming Yang"
 title_separator          : "-"
 name                     : &name "Yuming Yang"
 description              : &description "CBS 26 | PKU 24 | UChicago 23 | SHS 20"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://yuming-yang.github.io"
+url                      : https://yuming-yang.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
