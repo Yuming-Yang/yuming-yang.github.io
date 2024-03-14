@@ -11,4 +11,3 @@ location: "Beijing, China"
 Teaching Assistant for Professor Michael Pettis
 
 This is a course about international finance. Most of the course contents are based on Michael's articles.
-======
