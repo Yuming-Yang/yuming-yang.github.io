@@ -8,13 +8,7 @@ date: 2024-03-01
 location: "Beijing, China"
 ---
 
-Can I write anything here
+Teaching Assistant for Professor Michael Pettis
 
-What about here
-======
-
-Heading 2
-======
-
-Heading 3
+This is a course about international finance. Most of the course contents are based on Michael's articles.
 ======
