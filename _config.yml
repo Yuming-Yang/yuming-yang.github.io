@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "personal.JPG"
+  avatar           : "personal small.png"
   name             : "Yuming Yang"
   pronouns         : # example: "she/her"  
   bio              : "CBS 26 | PKU 24 | UChicago 23 | SHS 20"
