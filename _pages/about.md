@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Yuming Yang, an undergraduate majoring in Mathematics and Economics at [Peking University](https://english.pku.edu.cn). Later this year, I will be in the [Master of Science in Financial Economics](https://academics.business.columbia.edu/msfe) program at [Columbia Business School](https://business.columbia.edu).
+Currently I am a MS student in [Master of Science in Financial Economics](https://academics.business.columbia.edu/msfe) program at [Columbia Business School](https://business.columbia.edu).
 
 I am interested in corporate finance, financial intermediation, macro-finance, Web3.
 
-I employed my ChatGPT server [here](https://chat-gpt-next-web-khaki-nine-11.vercel.app/).
