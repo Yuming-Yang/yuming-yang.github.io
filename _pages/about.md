@@ -6,8 +6,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-Currently I am a MS student in [Master of Science in Financial Economics](https://academics.business.columbia.edu/msfe) program at [Columbia Business School](https://business.columbia.edu).
-
-I am interested in corporate finance, financial intermediation, macro-finance, Web3.
-
+I am a first-year [MS student in Financial Economics](https://academics.business.columbia.edu/msfe) at [Columbia Business School](https://business.columbia.edu), actively seeking Summer 2025 internships in quantitative research and macro research. I earned dual Bachelor’s degrees in Mathematics and Economics from Peking University. My academic background includes extensive research in finance and machine learning, equipping me with both market sense and analytical skill sets.
