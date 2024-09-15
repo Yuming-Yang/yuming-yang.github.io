@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Yuming Yang"
 title_separator          : "-"
 name                     : &name "Yuming Yang"
-description              : &description "CBS 26 | PKU 24 | UChicago 23 | SHS 20"
+description              : &description "MS Candidate of Financial Economics at Columbia Business School 26' | PKU Mathematics & Economics 24'"
 url                      : https://yuming-yang.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "personal small.png"
+  avatar           : "1.hpg"
   name             : "Yuming Yang"
   pronouns         : # example: "she/her"  
-  bio              : "CBS 26 | PKU 24 | UChicago 23 | SHS 20"
-  location         : "Beijing"
-  employer         : "Peking University"
+  bio              : "MS Candidate of Financial Economics at Columbia Business School 26' | PKU Mathematics & Economics 24'"
+  location         : "New York"
+  employer         : "Columbia Business School"
   uri              : # URL
-  email            : "alan.yang200@gmail.com" 
+  email            : "YYang26@gsb.columbia.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
