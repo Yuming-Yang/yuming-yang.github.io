@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Download my [Resume]
+Download my Resume
