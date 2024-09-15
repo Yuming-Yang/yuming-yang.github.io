@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Download my [CV](https://drive.google.com/file/d/1BKVrU-G8HmmHuS5snnfeAGcfWRRQJdxQ/view?usp=sharing)
+Download my [Resume]
