@@ -214,6 +214,9 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
+  posts:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -274,6 +277,14 @@ defaults:
   - scope:
       path: ""
       type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  - scope:
+      path: ""
+      type: posts
     values:
       layout: single
       author_profile: true
